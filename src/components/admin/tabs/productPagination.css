@@ -1,0 +1,10 @@
+.activePagination {
+  background-color: rgb(201, 114, 21);
+  width: 30px;
+  text-align: center;
+  border-radius: 1rem;
+transition: background-color 1s;  
+}
+.activePagination:active{
+    background-color: rgb(201, 114, 21);
+}
